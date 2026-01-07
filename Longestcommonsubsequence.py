@@ -1,4 +1,4 @@
-# Longest common subsequence in tow strings
+# Longest common subsequence in two strings
 a = input("Enter a String A: ")
 b = input("Enter a String B: ")
 count = 0

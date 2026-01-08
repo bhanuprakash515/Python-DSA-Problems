@@ -9,5 +9,7 @@ consistency over one-offs
 Building strong fundamentals, one commit at a time.
 Feedback, reviews, and suggestions are always welcome.
 
-🔗 GitHub: Python-DSA-Problems
+🔗 GitHub: 
+https://github.com/bhanuprakash515/Python-DSA-Problems.git
+
 #Python #DSA #ProblemSolving #GitHub #LearningByBuilding #Consistency

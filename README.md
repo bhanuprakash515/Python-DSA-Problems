@@ -12,4 +12,6 @@ Feedback, reviews, and suggestions are always welcome.
 🔗 GitHub: 
 https://github.com/bhanuprakash515/Python-DSA-Problems.git
 
+### Linkedin: https://www.linkedin.com/in/bhanuprakashkurugodu/
+
 #Python #DSA #ProblemSolving #GitHub #LearningByBuilding #Consistency
